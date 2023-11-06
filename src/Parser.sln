@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{3A30405E-65B0-4EEB-AD06-23012A1BC478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserTests", "ParserTests\ParserTests.csproj", "{16B5C673-DBA1-499B-B31A-A8D2B896F339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A30405E-65B0-4EEB-AD06-23012A1BC478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A30405E-65B0-4EEB-AD06-23012A1BC478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A30405E-65B0-4EEB-AD06-23012A1BC478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A30405E-65B0-4EEB-AD06-23012A1BC478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B5C673-DBA1-499B-B31A-A8D2B896F339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B5C673-DBA1-499B-B31A-A8D2B896F339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B5C673-DBA1-499B-B31A-A8D2B896F339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B5C673-DBA1-499B-B31A-A8D2B896F339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9491EB6A-0679-4A6B-902C-589BE76A86F6}
+	EndGlobalSection
+EndGlobal
